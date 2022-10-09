@@ -1,0 +1,58 @@
+2022-10-05T06:32:13+00:00 CRITICAL syntax error, unexpected token ";", expecting ")" in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 34
+
+2022-10-05T06:54:20+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php:29
+Stack trace:
+#0 E:\xampp\htdocs\bhavik\customwordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xampp\htdocs\bhavik\customwordpress\wp-blog-header.php(19): require_once('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\bhavik\customwordpress\index.php(17): require('E:\\xampp\\htdocs...')
+#3 {main}
+  thrown in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 29
+
+2022-10-05T06:59:44+00:00 CRITICAL syntax error, unexpected token ";" in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 13
+
+2022-10-05T07:06:25+00:00 CRITICAL syntax error, unexpected variable "$value", expecting ")" in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 16
+
+2022-10-05T07:07:04+00:00 CRITICAL syntax error, unexpected variable "$value", expecting ")" in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 16
+
+2022-10-05T07:22:44+00:00 CRITICAL syntax error, unexpected variable "$value", expecting ")" in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 16
+
+2022-10-05T07:22:55+00:00 CRITICAL syntax error, unexpected variable "$value", expecting ")" in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 16
+
+2022-10-05T07:24:03+00:00 CRITICAL Cannot redeclare get_cat_name() (previously declared in E:\xampp\htdocs\bhavik\customwordpress\wp-includes\category.php:223) in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 16
+
+2022-10-05T07:24:18+00:00 CRITICAL Cannot redeclare get_cat_name() (previously declared in E:\xampp\htdocs\bhavik\customwordpress\wp-includes\category.php:223) in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 16
+
+2022-10-05T07:25:49+00:00 CRITICAL syntax error, unexpected variable "$value", expecting ")" in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 16
+
+2022-10-05T07:26:08+00:00 CRITICAL Uncaught Error: Call to undefined function int() in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php:16
+Stack trace:
+#0 E:\xampp\htdocs\bhavik\customwordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xampp\htdocs\bhavik\customwordpress\wp-blog-header.php(19): require_once('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\bhavik\customwordpress\index.php(17): require('E:\\xampp\\htdocs...')
+#3 {main}
+  thrown in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 16
+
+2022-10-05T07:27:43+00:00 CRITICAL Cannot redeclare get_cat_name() (previously declared in E:\xampp\htdocs\bhavik\customwordpress\wp-includes\category.php:223) in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 16
+
+2022-10-05T07:28:07+00:00 CRITICAL Cannot redeclare get_cat_name() (previously declared in E:\xampp\htdocs\bhavik\customwordpress\wp-includes\category.php:223) in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 16
+
+2022-10-05T07:37:16+00:00 CRITICAL Uncaught Error: Object of class WP_Term could not be converted to string in E:\xampp\htdocs\bhavik\customwordpress\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php:77
+Stack trace:
+#0 E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php(13): the_field('productcategory...')
+#1 E:\xampp\htdocs\bhavik\customwordpress\wp-includes\template-loader.php(106): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\bhavik\customwordpress\wp-blog-header.php(19): require_once('E:\\xampp\\htdocs...')
+#3 E:\xampp\htdocs\bhavik\customwordpress\index.php(17): require('E:\\xampp\\htdocs...')
+#4 {main}
+  thrown in E:\xampp\htdocs\bhavik\customwordpress\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php on line 77
+
+2022-10-05T07:37:49+00:00 CRITICAL Uncaught Error: Object of class WP_Term could not be converted to string in E:\xampp\htdocs\bhavik\customwordpress\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php:77
+Stack trace:
+#0 E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php(13): the_field('productcategory...')
+#1 E:\xampp\htdocs\bhavik\customwordpress\wp-includes\template-loader.php(106): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\bhavik\customwordpress\wp-blog-header.php(19): require_once('E:\\xampp\\htdocs...')
+#3 E:\xampp\htdocs\bhavik\customwordpress\index.php(17): require('E:\\xampp\\htdocs...')
+#4 {main}
+  thrown in E:\xampp\htdocs\bhavik\customwordpress\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php on line 77
+
+2022-10-05T08:00:35+00:00 CRITICAL Out of memory (allocated 52428800) (tried to allocate 32768 bytes) in E:\xampp\htdocs\bhavik\customwordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductPrice.php on line 1
+

@@ -1,0 +1,18 @@
+2022-10-06T07:21:52+00:00 CRITICAL Uncaught Error: Call to undefined function wp_query() in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php:42
+Stack trace:
+#0 E:\xampp\htdocs\bhavik\customwordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xampp\htdocs\bhavik\customwordpress\wp-blog-header.php(19): require_once('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\bhavik\customwordpress\index.php(17): require('E:\\xampp\\htdocs...')
+#3 {main}
+  thrown in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 42
+
+2022-10-06T07:22:24+00:00 CRITICAL Uncaught Error: Call to undefined function wp_query() in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php:42
+Stack trace:
+#0 E:\xampp\htdocs\bhavik\customwordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xampp\htdocs\bhavik\customwordpress\wp-blog-header.php(19): require_once('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\bhavik\customwordpress\index.php(17): require('E:\\xampp\\htdocs...')
+#3 {main}
+  thrown in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 42
+
+2022-10-06T07:25:53+00:00 CRITICAL Out of memory (allocated 56623104) (tried to allocate 32768 bytes) in E:\xampp\htdocs\bhavik\customwordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-setting-options-controller.php on line 1
+

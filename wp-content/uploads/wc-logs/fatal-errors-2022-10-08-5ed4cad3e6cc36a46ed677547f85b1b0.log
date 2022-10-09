@@ -1,0 +1,152 @@
+2022-10-08T07:58:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\bhavik\customwordpress\wp-includes\wp-db.php on line 2169
+
+2022-10-08T08:12:39+00:00 CRITICAL Uncaught Error: Object of class WP_Query could not be converted to string in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php:43
+Stack trace:
+#0 E:\xampp\htdocs\bhavik\customwordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xampp\htdocs\bhavik\customwordpress\wp-blog-header.php(19): require_once('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\bhavik\customwordpress\index.php(17): require('E:\\xampp\\htdocs...')
+#3 {main}
+  thrown in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 43
+
+2022-10-08T08:13:15+00:00 CRITICAL syntax error, unexpected variable "$loop" in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 43
+
+2022-10-08T09:57:43+00:00 CRITICAL Uncaught Error: Call to undefined function wp_query() in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php:24
+Stack trace:
+#0 E:\xampp\htdocs\bhavik\customwordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xampp\htdocs\bhavik\customwordpress\wp-blog-header.php(19): require_once('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\bhavik\customwordpress\index.php(17): require('E:\\xampp\\htdocs...')
+#3 {main}
+  thrown in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 24
+
+2022-10-08T09:58:53+00:00 CRITICAL Uncaught Error: Call to undefined function wp_query() in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php:23
+Stack trace:
+#0 E:\xampp\htdocs\bhavik\customwordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xampp\htdocs\bhavik\customwordpress\wp-blog-header.php(19): require_once('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\bhavik\customwordpress\index.php(17): require('E:\\xampp\\htdocs...')
+#3 {main}
+  thrown in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 23
+
+2022-10-08T10:00:03+00:00 CRITICAL Uncaught Error: Call to undefined function wp_query() in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php:23
+Stack trace:
+#0 E:\xampp\htdocs\bhavik\customwordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xampp\htdocs\bhavik\customwordpress\wp-blog-header.php(19): require_once('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\bhavik\customwordpress\index.php(17): require('E:\\xampp\\htdocs...')
+#3 {main}
+  thrown in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 23
+
+2022-10-08T10:19:39+00:00 CRITICAL Uncaught Error: Call to undefined function wp_query() in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php:39
+Stack trace:
+#0 E:\xampp\htdocs\bhavik\customwordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xampp\htdocs\bhavik\customwordpress\wp-blog-header.php(19): require_once('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\bhavik\customwordpress\index.php(17): require('E:\\xampp\\htdocs...')
+#3 {main}
+  thrown in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 39
+
+2022-10-08T10:20:06+00:00 CRITICAL Uncaught Error: Call to undefined function wp_query() in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php:39
+Stack trace:
+#0 E:\xampp\htdocs\bhavik\customwordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xampp\htdocs\bhavik\customwordpress\wp-blog-header.php(19): require_once('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\bhavik\customwordpress\index.php(17): require('E:\\xampp\\htdocs...')
+#3 {main}
+  thrown in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 39
+
+2022-10-08T10:20:45+00:00 CRITICAL Uncaught Error: Call to undefined function wp_query() in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php:39
+Stack trace:
+#0 E:\xampp\htdocs\bhavik\customwordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xampp\htdocs\bhavik\customwordpress\wp-blog-header.php(19): require_once('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\bhavik\customwordpress\index.php(17): require('E:\\xampp\\htdocs...')
+#3 {main}
+  thrown in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 39
+
+2022-10-08T10:21:01+00:00 CRITICAL Uncaught Error: Call to undefined function wp_query() in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php:39
+Stack trace:
+#0 E:\xampp\htdocs\bhavik\customwordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xampp\htdocs\bhavik\customwordpress\wp-blog-header.php(19): require_once('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\bhavik\customwordpress\index.php(17): require('E:\\xampp\\htdocs...')
+#3 {main}
+  thrown in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 39
+
+2022-10-08T10:21:10+00:00 CRITICAL Uncaught Error: Call to undefined function wp_query() in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php:39
+Stack trace:
+#0 E:\xampp\htdocs\bhavik\customwordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xampp\htdocs\bhavik\customwordpress\wp-blog-header.php(19): require_once('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\bhavik\customwordpress\index.php(17): require('E:\\xampp\\htdocs...')
+#3 {main}
+  thrown in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 39
+
+2022-10-08T10:21:18+00:00 CRITICAL Uncaught Error: Call to undefined function wp_query() in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php:39
+Stack trace:
+#0 E:\xampp\htdocs\bhavik\customwordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xampp\htdocs\bhavik\customwordpress\wp-blog-header.php(19): require_once('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\bhavik\customwordpress\index.php(17): require('E:\\xampp\\htdocs...')
+#3 {main}
+  thrown in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 39
+
+2022-10-08T10:22:26+00:00 CRITICAL Uncaught Error: Call to undefined function wp_query() in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php:39
+Stack trace:
+#0 E:\xampp\htdocs\bhavik\customwordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xampp\htdocs\bhavik\customwordpress\wp-blog-header.php(19): require_once('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\bhavik\customwordpress\index.php(17): require('E:\\xampp\\htdocs...')
+#3 {main}
+  thrown in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 39
+
+2022-10-08T10:22:56+00:00 CRITICAL Uncaught Error: Call to undefined function wp_query() in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php:38
+Stack trace:
+#0 E:\xampp\htdocs\bhavik\customwordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xampp\htdocs\bhavik\customwordpress\wp-blog-header.php(19): require_once('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\bhavik\customwordpress\index.php(17): require('E:\\xampp\\htdocs...')
+#3 {main}
+  thrown in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 38
+
+2022-10-08T10:29:12+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Post as array in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php:30
+Stack trace:
+#0 E:\xampp\htdocs\bhavik\customwordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xampp\htdocs\bhavik\customwordpress\wp-blog-header.php(19): require_once('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\bhavik\customwordpress\index.php(17): require('E:\\xampp\\htdocs...')
+#3 {main}
+  thrown in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 30
+
+2022-10-08T10:30:03+00:00 CRITICAL syntax error, unexpected token "=>", expecting ")" in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 30
+
+2022-10-08T10:30:26+00:00 CRITICAL syntax error, unexpected token "=>", expecting ")" in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 30
+
+2022-10-08T10:51:10+00:00 CRITICAL syntax error, unexpected end of file in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 170
+
+2022-10-08T10:51:44+00:00 CRITICAL syntax error, unexpected end of file in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 170
+
+2022-10-08T10:51:49+00:00 CRITICAL syntax error, unexpected end of file in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 170
+
+2022-10-08T11:08:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\bhavik\customwordpress\wp-content\plugins\woocommerce\src\Admin\API\Reports\DataStore.php on line 8
+
+2022-10-08T11:08:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\bhavik\customwordpress\wp-content\plugins\advanced-custom-fields\includes\fields\class-acf-field-password.php on line 3
+
+2022-10-08T11:11:44+00:00 CRITICAL syntax error, unexpected token ";", expecting ")" in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 31
+
+2022-10-08T11:11:52+00:00 CRITICAL syntax error, unexpected token ";", expecting ")" in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 31
+
+2022-10-08T11:15:03+00:00 CRITICAL syntax error, unexpected token ";", expecting ")" in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 31
+
+2022-10-08T11:15:08+00:00 CRITICAL syntax error, unexpected token ";", expecting ")" in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 31
+
+2022-10-08T11:15:23+00:00 CRITICAL syntax error, unexpected token ";", expecting ")" in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 31
+
+2022-10-08T11:15:43+00:00 CRITICAL syntax error, unexpected token ";", expecting ")" in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 31
+
+2022-10-08T11:15:49+00:00 CRITICAL syntax error, unexpected token ";", expecting ")" in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 31
+
+2022-10-08T11:20:08+00:00 CRITICAL syntax error, unexpected token ";", expecting ")" in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 31
+
+2022-10-08T11:20:14+00:00 CRITICAL syntax error, unexpected token ";", expecting ")" in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 31
+
+2022-10-08T12:29:55+00:00 CRITICAL Unmatched '}' in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 124
+
+2022-10-08T12:30:22+00:00 CRITICAL Unmatched '}' in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 124
+
+2022-10-08T14:32:02+00:00 CRITICAL syntax error, unexpected identifier "related_products", expecting ")" in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\front-page.php on line 134
+
+2022-10-08T19:53:20+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\header.php on line 92
+
+2022-10-08T20:22:01+00:00 CRITICAL syntax error, unexpected token ";", expecting ")" in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\functions.php on line 40
+
+2022-10-08T20:22:02+00:00 CRITICAL syntax error, unexpected token ";", expecting ")" in E:\xampp\htdocs\bhavik\customwordpress\wp-content\themes\Custom WP Theme\functions.php on line 40
+
